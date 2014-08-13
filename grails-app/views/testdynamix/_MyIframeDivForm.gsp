@@ -26,7 +26,7 @@
  				
  				modalTemplate='/modaldynamix/modaliframe'
  			
- 				domain="grails.modaldx.test.MyLocalDomain"
+ 				domain="testmodaldynamix.MyLocalDomain"
 
  			
  			/>

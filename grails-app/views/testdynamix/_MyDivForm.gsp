@@ -1,4 +1,3 @@
-<meta name="layout" content="main"/>
 <g:modalForm
  				id="ModalDynamixSPECIALFORM"
  				formId="MyRemoteForma"
