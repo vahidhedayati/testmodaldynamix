@@ -74,9 +74,9 @@ grails.project.dependency.resolution = {
         //compile ":coffee-asset-pipeline:1.7.0"
         //compile ":handlebars-asset-pipeline:1.3.0.3"
 	// compile ":jquery-ui:1.10.3"
-	 compile ":modaldynamix:0.5"
+	 //compile ":modaldynamix:0.5"
 
     }
 }
-//grails.plugin.location.'modaldynamix' = "../modaldynamix"
+grails.plugin.location.'modaldynamix' = "../modaldynamix"
 

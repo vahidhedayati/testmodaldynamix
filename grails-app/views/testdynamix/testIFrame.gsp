@@ -21,6 +21,11 @@
 		divId="MyIframeDiv1"
 		title="Create New MyUser"
 		value="Generate New MyUser Remote Form Example?"
+		
+		
+
+            
+            
 		/>
 	 		
  		<!--  MyIframeDivForm could and should be your own naming convention and MUST be different per any set -->
