@@ -25,6 +25,7 @@
 		divId="MyDiv1"
 		title="Create New MyUser"
 		value="Generate New MyUser Remote Form Example?"
+		style="btn btn-primary"
 		/>
 		
 		

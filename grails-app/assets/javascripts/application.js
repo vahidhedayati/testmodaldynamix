@@ -2,10 +2,10 @@
 //
 // Any JavaScript file within this directory can be referenced here using a relative path.
 //   
-//	-- jquery-ui/js/jquery-ui-1.10.3.custom.min
 // You're free to add application-wide JavaScript to this file, but it's generally better 
 // to create separate JavaScript files as needed.
 //= require jquery
+//= require jquery-ui/js/jquery-ui-1.10.3.custom.min
 //= require_tree .
 //= require_self
 

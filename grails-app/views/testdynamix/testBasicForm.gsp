@@ -1,5 +1,11 @@
-		<meta name="layout" content="main"/>
+<html>
 
+
+<head>
+		<meta name="layout" content="main"/>
+		</head>
+<body>
+<div class="container">
 		<h1>ModalBox call a BASIC FORM within typically a html page</h1>
 		
 		<!--  g:genModalButton loads up a button that triggers modalbox
@@ -14,9 +20,7 @@
 		divId="MyBasicDiv1"
 		title="Create New MyUser"
 		value="Generate New MyUser Remote Form Example?"
-		
-		
-		
+		style="btn btn-danger"
 		/>
 		
  		
@@ -38,36 +42,7 @@
 				
 		 -->
 
- 		<div id="MyBasicDiv1">
- 			<g:modalForm
- 				id="ModalDynamixBASIC"
- 				title="My Modal Title"
- 				modalTemplate="/modaldynamix/modalbasic"
- 				modalTemplatePage="/myLocalDomain/formBasic"
- 		 			
-	    calctype="*"         
-            height="0.2"         
-            width="0.6"         
-            bodyheight="0.4"    
-            bodywidth='98%'     
-            overflow="hidden"   
-            position="fixed"    
-            top="0"    
-            margintop='10em' 
-            marginright='auto' 
-            left='auto'        
-            right='auto'       
-            iframescrolling='auto' 
-            iframetransparency='true' 
-            iframezoom='1'  
-            iframewidth='100%' 
-            iframeheight='100%'  
-            iframemargin='0'     
-            iframepadding='0'    
-            
- 	/>
- 		</div>
-
+ 		
  		
  
  
@@ -86,5 +61,37 @@
  		........................<br/>
  		........................<br/>
  		Contains above button which kicks off a pop up form people fill it in, results takes over this page.
- 		
+ 	
+ 		<div id="MyBasicDiv1">
+ 			<g:modalForm
+ 				id="ModalDynamixBASIC"
+ 				title="My Modal Title"
+ 				modalTemplate="/modaldynamix/modalbasic"
+ 				modalTemplatePage="/myLocalDomain/formBasic"
+       
+            height="23em"         
+            width="22em"         
+            bodyheight="23em"    
+            bodywidth='98%'     
+            overflow="auto"   
+            position="fixed"    
+            top="0"    
+            margintop='10em' 
+            marginright='auto' 
+              marginleft='auto' 
+            left='auto'        
+            right='auto'       
+            iframescrolling='auto' 
+            iframetransparency='true' 
+            iframezoom='1'  
+            iframewidth='100%' 
+            iframeheight='100%'  
+            iframemargin='0'     
+            iframepadding='0'    
+ 		 			
+ 			/>
+ 		</div>
+	</div>
+ 		</body>
+ 		</html>
  		
