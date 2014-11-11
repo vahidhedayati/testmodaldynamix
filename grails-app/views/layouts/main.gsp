@@ -20,7 +20,7 @@
 		<!-- Vahid load in bootstrap - if app has no bootstrap -->
 		<g:loadbootstrap/>
 
-	
+		<g:render template="/menu"/>
 		<div id="grailsLogo" role="banner"><a href="http://grails.org"><asset:image src="grails_logo.png" alt="Grails"/></a></div>
 		<g:layoutBody/>
 		<div class="footer" role="contentinfo"></div>
