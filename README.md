@@ -1,7 +1,4 @@
-
-
 ## Getting started
-
 
 ## Post 2.4 (tested on 2.4.4)
 
