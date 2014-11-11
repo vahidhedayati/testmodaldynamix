@@ -47,6 +47,7 @@ your layouts main.gsp: (add jquery-ui,jquery + loadbootstrap)
 </head>
 ```
 
+
 You will notice from a default installed application the extra jquery jquery-ui and <g:loadbootstrap/>
 
 If your site is already bootstrapped then no need to load that up.
