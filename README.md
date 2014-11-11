@@ -27,7 +27,6 @@ Update [application.js](https://github.com/vahidhedayati/testmodaldynamix/blob/m
 
 I think that should be all. If any issues/suggestions raise it [here](https://github.com/vahidhedayati/modaldynamix/issues)
 
-
 ### Modify views/layouts/main.gsp  (Pre 2.4 grails resources based applications)
 
 your layouts main.gsp: (add jquery-ui,jquery + loadbootstrap)
