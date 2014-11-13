@@ -1,6 +1,6 @@
 ## Getting started
 ## Post 2.4 (tested on 2.4.4)
-Please refer to [testmodaldynamix](https://github.com/vahidhedayati/testmodaldynamix) to see this being used and where all the below examples were taken from.
+Please refer to [testmodaldynamix](https://github.com/vahidhedayati/testmodaldynamix) to see this being used and where all the below examples were taken from. 
 
 After having either followed above steps or copied 
 [test controller](https://github.com/vahidhedayati/testmodaldynamix/blob/master/grails-app/controllers/testmodaldynamix/TestdynamixController.groovy)
