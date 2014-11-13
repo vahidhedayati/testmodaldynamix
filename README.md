@@ -6,7 +6,7 @@ After having either followed above steps or copied
 [test controller](https://github.com/vahidhedayati/testmodaldynamix/blob/master/grails-app/controllers/testmodaldynamix/TestdynamixController.groovy)
 and copied [the views folder](https://github.com/vahidhedayati/testmodaldynamix/tree/master/grails-app/views/testdynamix) to you own app.
 
-The changes required to a vanilla 2.4.4 install are:
+The changes required to a vanilla 2.4.4 install are :
 
 Update [BuildConfig.groovy](https://github.com/vahidhedayati/testmodaldynamix/blob/master/grails-app/conf/BuildConfig.groovy)
 ```
