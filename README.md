@@ -19,6 +19,7 @@ update [main.gsp](https://github.com/vahidhedayati/testmodaldynamix/blob/master/
 <g:loadbootstrap/>
 ```
 
+
 Update [application.js](https://github.com/vahidhedayati/testmodaldynamix/blob/master/grails-app/assets/javascripts/application.js) addd the jquery-ui line
 ```
 //= require jquery
