@@ -4,3 +4,8 @@ plugin.xml
 *.zip
 *.log
 target-eclipse
+wrapper
+grailsw
+grailsw.bat
+.classpath
+.project
